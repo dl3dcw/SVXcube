@@ -1,6 +1,6 @@
 # SVXcube 
 
-Flexibles System für LoRa-APRS auf Basis des M5Stack Core BASIC
+Monitor für das FM-Funknetz auf Basis des M5Stack Core BASIC
 
 ![APRScube](http://SVXcube.de/pictures/title.jpg)
 
