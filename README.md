@@ -2,7 +2,7 @@
 
 Monitor für das FM-Funknetz auf Basis des M5Stack Core BASIC
 
-![APRScube](http://SVXcube.de/pictures/title.jpg)
+![SVXcube](http://SVXcube.de/pictures/title.jpg)
 
 ## Manual:
 
