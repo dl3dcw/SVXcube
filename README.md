@@ -22,7 +22,8 @@ Monitor für das FM-Funknetz auf Basis des M5Stack Core BASIC
 
 ## Hardware:
 
-[http://SVXcube.de/hardware](http://SVXcube.de/hardware) (Bezugsquelle)
+M5Stack ESP32 Basic Core (K001-V26)
+M5Stack BTC Standing Base (A011-B, optional)
 
 ## Tools:
 
