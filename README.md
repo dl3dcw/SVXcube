@@ -1,6 +1,6 @@
 # SVXcube 
 
-Monitor für das FM-Funknetz auf Basis des M5Stack Core BASIC
+Monitor für das [FM-Funknetz](https://fm-funknetz.de) auf Basis des M5Stack Core BASIC
 
 ![SVXcube](http://SVXcube.de/pictures/title.jpg)
 
