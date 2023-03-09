@@ -28,9 +28,9 @@ MicroSD Speicherkarte (8GB reicht völlig aus)
 
 M5Stack BTC Standing Base (A011-B, optional)
 
-## Bezugsquelle:
+## Komplettpaket:
 
-http://SVXcube.de/hardware (Komplettpaket)
+http://SVXcube.de/hardware (Bezugsquelle)
 
 ## Tools:
 
