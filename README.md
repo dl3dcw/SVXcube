@@ -28,6 +28,10 @@ MicroSD Speicherkarte (8GB reicht völlig aus)
 
 M5Stack BTC Standing Base (A011-B, optional)
 
+oder
+
+http://SVXcube.de/hardware (Bezugsquelle)
+
 ## Tools:
 
 [http://SVXcube.de/tools/Flash_Download_Tool_v3.8.5.zip](http://SVXcube.de/tools/Flash_Download_Tool_v3.8.5.zip) (Programmiertool)
