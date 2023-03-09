@@ -24,7 +24,7 @@ Monitor für das FM-Funknetz auf Basis des M5Stack Core BASIC
 
 M5Stack ESP32 Basic Core (K001-V26)
 
-Micro-SD Speicherkarte (8GB reicht völlig) 
+MicroSD Speicherkarte (8GB reicht völlig) 
 
 M5Stack BTC Standing Base (A011-B, optional)
 
