@@ -12,8 +12,6 @@ Monitor für das [FM-Funknetz](https://fm-funknetz.de) auf Basis des M5Stack Cor
 
 [http://SVXcube.de/firmware](http://SVXcube.de/firmware) (Aktuelle Firmware)
 
-[http://SVXcube.de/beta](http://SVXcube.de/beta) (Beta mit MQTT)
-
 ## Installation:
 
 [http://SVXcube.de/installation](http://SVXcube.de/installation) (Installationsanleitung)
